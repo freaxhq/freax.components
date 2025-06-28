@@ -8,3 +8,5 @@ We will have our component's code here . you can either go with [quickshell](htt
   
 # Design & Inspirtion stuff
 - i have created a [penpot](https://penpot.app/) team page , where we can design and brainstorm designs . you'll have to dm me to join it tho because it needs an email address. ( lemme know if you have any other good alternative to this )
+
+freax
