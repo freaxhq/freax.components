@@ -1,6 +1,6 @@
-[#](#) freax.components
+# freax.components
 
-We will have all our components code here . you can either go with [quickshell](https://quickshell.outfoxxed.me/) ( recommended because of performance ) or [ags](https://aylur.github.io/ags/) ( it uses js , so it will be easier to work with ) 
+We will have our component's code here . you can either go with [quickshell](https://quickshell.outfoxxed.me/) ( recommended because of performance ) or [ags](https://aylur.github.io/ags/) ( it uses js , so it will be easier to work with ) 
 
 - create your own seperate branch 
 - if you are going with only one of the above libraries , you can create widgets directly in your root directory  ( like ./bar.js or ./widget.qml)
