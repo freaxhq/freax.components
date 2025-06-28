@@ -10,12 +10,17 @@ We will have our component's code here . you can either go with [quickshell](htt
 - i have created a [penpot](https://penpot.app/) team page , where we can design and brainstorm designs . you'll have to dm me to join it tho because it needs an email address. ( lemme know if you have any other good alternative to this )
 ---
 current structure
+
 ```bash
-├── components
-│   ├── qml
-│   └── quickshell
-│       └── widgets
-│           └── clock.qml
+├── status_bar
+│   ├── shell.qml
+│   └── assets
+│       └── logo.png
+├── app launcher
+│   ├── shell.qml
+│   └── assets
+│       └── logo.png
+│
 └── README.md
 ```
 
