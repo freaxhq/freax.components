@@ -1,5 +1,7 @@
 # freax.components
 
+if you are on linux and running a window manager , you can just [install quickshell](https://quickshell.org/docs/v0.2.0/guide/install-setup/) and grab any of these widgets and use them in your setup as you want by using the quickshell command .
+
 ## Previews 
 ![lockscreen](./previews/lockscreen.png)
 ![power_menu_v1](./previews/power_menu_v1.png)
